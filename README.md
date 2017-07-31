@@ -1,4 +1,4 @@
-#Logo
+# Logo
 
 A list of logo in png file you can use for your online store.
 
