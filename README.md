@@ -1,6 +1,6 @@
 # Logo
 
-A list of logo in png format you can use for your online store.
+A list of payment providers logo that Midtrans Payment support in image file format you can use for your online store.
 
 ## What can I do with this
 
@@ -8,4 +8,6 @@ You can download and use the logo on your ecommerce. For larger file, refer to l
 
 ## List
 
-![all logo](/logo/all_logo.png)
+![list logo](/logo/all_logo.png)
+
+For more complete payment provider logos, please check inside the [`/logo`](/logo) folder.
